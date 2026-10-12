@@ -1,6 +1,4 @@
 package com.example.AopDemo.controller;
-
-
 import com.example.AopDemo.dto.Student;
 import com.example.AopDemo.service.StudentService;
 import org.springframework.http.ResponseEntity;
